@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flaskdatabasemigratrions",
+  "private_key_id": "2624cb45258191a02926923bd3b668049c5ef628",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbNTtvy12s6r2b\n5aFuA3Xsnol2n04gf2vL3BglZARtLFXQkQajIbl0E1MNj6i5/MUYdd6FpOIPWz7u\n8T+0VBvu21rOTdaLLxq8a1rGuOvqCmjh6BJBE0F/q/9S7I5uENQsm9DvzLGIlnnl\nfh8yasgqqKy1oSG1jZ0k7U0kC9ibj/BtBJmba7Q6KTPOUzsgya8GFJfv+SudiM0y\n6dloY9kXPORvWI58zX9P3zv2JGs9B0Ihub1SavrX3dcop6+xmFcBN2XwNnLaouPh\n2Fl9XcPmvHmwSgZ8RuxGFlivn7PcGT3WcneWujO/iDqmWAEeY0jSnFo0rGZIY0Vs\nlhxbMd4ZAgMBAAECggEACOfii7UnIGNt0tK30xi2vQeRyrE0ae/1zwJHjmmxSVRo\nbinMMDMgsZTkSJxsKZPj+VXWGWQPJqNtNoe4SJAk9C05Bip4O49N4O7mDA4TV2AW\niZPn7Dz/HqTPZ0I0oAMuMYsVT5U2wKglwXHdt2ZiKvR3yIpA5WqFUFeffAiD+tUO\nGxVMdtURTqa3zGludsMXX7Af2GRGR5NpeH/Sxj7/1ENb0Q2wDai7dj3h/8n0B8Yc\nsAP6/JmfnEl3o48jkHR8OInLFl+TR8JxEXVN3mWiQHH/7s/drvMGMFegfjs3Rhrt\nbUDfxDUq9w5vf4ZJ6G+Hwk+b1PMsAQcTBDnABrxYaQKBgQDYBFhTiqGNDi68kZPc\nprAQ126j3SZenBdhjX6cEyUPryw8dJpWsUwuEJUBMjpVp46Cxyr4KSn1wUN8vLz2\nnBtSRp7Xij16f2WjNgkqB6f9lQeTUm0e3yuekpJReRp5dFDMykP/6kn2gBb3w9Dp\niUQGWtz9cIPDAy8YQJmxIFCHTQKBgQC374nBgzks8X/UhtUpbrpEpKiBBh59XelM\nnAnWkUULbCMIAbh1T+TErASa+qaZZc8JV/5QB+OjpL2Ntw3OyzbJOpPz2rY+wh8B\nKbmD041/YOeOhv6aSrhym4gOTXKkncDqwVhvXNysMk996NbZChS6h9tDikKCgx0Y\nfYXhnX9D/QKBgG709GWc/NRWZ51GbZvWJvPPpK4Yxz+rj7r1EgabMts2kFNRVYGY\nOlgi/laJ9TrQATydjy2+/yWTqtWkoK9Pih0d1zNBd8i3LX7DH7vuCNUROr3qhdBo\ns6AVC4E74mRmYaZ/cqQ+NNWf/6wucd2zOzTEcWTg6V0/Am7Dp+46egK1AoGBAKG3\nRRKSYO6W1aDxevCWncZETrJBwwTOUJQ+jJfN2TqVtKcRfDAIMkaIRvRLc7ZiwIii\niMGsbgQuj0nNq6IpIN4DVpmLrbe3zLKlEKpKkZlwhaXWIntdPpXlENYiWa1J1ZeQ\nrkQbDRmIkkNNN7hTGK53S9wx7w/4XthtZAxdAMuxAoGBAKUckLI04eS+nfq+eptR\nFltG9R/T1u+mSKyIlNYQzScLQdcd8rNRexJYwFvprbXAT8DNyDwyarIPPx5P3e2/\nlgXfRifRu1Lo6MQzKxw+MR5hZbrJchxSHPtA6ayLykzYCn3D+ollm2lwdjr8Bpu1\n9stynj25Ca6Es3i3MYIj4vgv\n-----END PRIVATE KEY-----\n",
+  "client_email": "prudhvee2@flaskdatabasemigratrions.iam.gserviceaccount.com",
+  "client_id": "101647014497676275501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prudhvee2%40flaskdatabasemigratrions.iam.gserviceaccount.com"
+}

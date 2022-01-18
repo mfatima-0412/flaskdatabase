@@ -1,0 +1,7 @@
+database,table,name,type,mode
+original_db_config,commentInteractions,employee,STRING,NULLABLE
+original_db_config,commentInteractions,companyAlias,STRING,NULLABLE
+original_db_config,commentInteractions,liked,STRING,NULLABLE
+original_db_config,commentInteractions,disliked,STRING,NULLABLE
+original_db_config,commentInteractions,commentId,STRING,NULLABLE
+

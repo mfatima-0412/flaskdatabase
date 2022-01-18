@@ -1,0 +1,12 @@
+database,table,name,type,mode
+db1_config,comments_clean_anonimized,employee,INTEGER,NULLABLE
+db1_config,comments_clean_anonimized,companyAlias,STRING,NULLABLE
+db1_config,comments_clean_anonimized,commentId,STRING,NULLABLE
+db1_config,comments_clean_anonimized,txt,STRING,NULLABLE
+db1_config,comments_clean_anonimized,likes,INTEGER,NULLABLE
+db1_config,comments_clean_anonimized,dislikes,INTEGER,NULLABLE
+db1_config,comments_clean_anonimized,commentDate,STRING,NULLABLE
+db1_config,votes,employee,INTEGER,NULLABLE
+db1_config,votes,companyAlias,STRING,NULLABLE
+db1_config,votes,voteDate,STRING,NULLABLE
+db1_config,votes,vote,INTEGER,NULLABLE
