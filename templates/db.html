@@ -1,0 +1,12 @@
+<form action="" method="post">
+
+    <h1>  Flask database migrations </h1>
+    <p>
+        {{ form.DB_NAMES }}<br>
+        {% for db in form.DB_NAMES.errors %}
+        <span style="color: red;">[{{ db }}]</span>
+        {% endfor %}
+    </p>
+
+    <p>{{ form.submit() }}</p>
+</form>
